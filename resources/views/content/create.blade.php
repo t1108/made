@@ -40,7 +40,6 @@
                 <button type="submit">はい</button>
                 <button class="not" type="button">いいえ</button>
             </div>
-            
         </div>
         <div class="modal"></div>
     </form>
